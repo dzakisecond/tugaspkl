@@ -1,3 +1,3 @@
-# tugaspkl
+# tugaspk
 
 *Danendra - SMKIT Ihsanul Fikri
