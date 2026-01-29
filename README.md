@@ -1,3 +1,2 @@
-#tugaspkl
-
-*dzaki - sma
+# tugaspkl
+punya danendra
