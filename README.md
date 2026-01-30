@@ -1,3 +1,3 @@
-# tugaspk
-
-*Danendra - SMKIT Ihsanul Fikri
+# Tugas Akhir
+*Danendra 
+senang belajar Git cource Control
