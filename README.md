@@ -8,3 +8,4 @@ Amru   - SMK
 Jiyaad - SMK
 Fikri  - SMK
 Furqon - SMK
+Hasyim - SMK
